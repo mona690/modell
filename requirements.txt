@@ -3,7 +3,7 @@ pandas
 numpy
 librosa
 Counter
-collections
+
 seaborn
 matplotlib
 sklearn
