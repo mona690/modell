@@ -1,7 +1,7 @@
 gunicorn
 pandas
 
-numpy==1.22
+numpy
 librosa
 Counter
 
