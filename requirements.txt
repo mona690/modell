@@ -1,13 +1,13 @@
 gunicorn
-pandas
+#pandas
 
-numpy
-librosa
-Counter
+#numpy
+#librosa
+#Counter
 
-seaborn
-matplotlib
-sklearn
-tensorflow
-keras
+#seaborn
+#matplotlib
+#sklearn
+#tensorflow
+#keras
 Flask
