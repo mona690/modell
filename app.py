@@ -112,4 +112,4 @@ def upload_predict():
         result['status'] = 'InCorrect Record'
 
     return jsonify(result)
-app.run(port=8000)
+#app.run(port=8000)
