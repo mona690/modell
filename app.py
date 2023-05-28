@@ -119,6 +119,6 @@ def upload_predict():
 
 # In[ ]:
 
-app.run()
+#app.run()
 
 # %%
