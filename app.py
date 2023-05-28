@@ -29,7 +29,7 @@ filepath = None
 # In[ ]:
 
 
-app = Flask(name)
+app = Flask(__name__)
 
 
 # # In[ ]:
